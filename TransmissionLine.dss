@@ -1,0 +1,162 @@
+New line.SE_TOY_T1 bus1=SE_TOY bus2=T1 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+
+New line.T1_T2 bus1=T1 bus2=T2 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T1_RT bus1=T1.4 bus2=T1.0 phases=1 R=15 X=0
+New Reactor.T1_OHEW bus1=T1.4 phases=1 bus2=T1.4 r=0.01 X=0 
+
+New line.T2_T3 bus1=T2 bus2=T3 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T2_RT bus1=T2.4 bus2=T2.0 phases=1 R=15 X=0
+New Reactor.T2_OHEW bus1=T2.4 phases=1 bus2=T2.4 r=0.01 X=0 
+
+New line.T3_T4 bus1=T3 bus2=T4 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T3_RT bus1=T3.4 bus2=T3.0 phases=1 R=15 X=0
+New Reactor.T3_OHEW bus1=T3.4 phases=1 bus2=T3.4 r=0.01 X=0 
+
+New line.T4_T5 bus1=T4 bus2=T5 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T4_RT bus1=T4.4 bus2=T4.0 phases=1 R=15 X=0
+New Reactor.T4_OHEW bus1=T4.4 phases=1 bus2=T4.4 r=0.01 X=0 
+
+New line.T5_T6 bus1=T5 bus2=T6 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T5_RT bus1=T5.4 bus2=T5.0 phases=1 R=15 X=0
+New Reactor.T5_OHEW bus1=T5.4 phases=1 bus2=T5.4 r=0.01 X=0 
+
+New line.T6_T7 bus1=T6 bus2=T7 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T6_RT bus1=T6.4 bus2=T6.0 phases=1 R=15 X=0
+New Reactor.T6_OHEW bus1=T6.4 phases=1 bus2=T6.4 r=0.01 X=0 
+
+New line.T7_T8 bus1=T7 bus2=T8 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T7_RT bus1=T7.4 bus2=T7.0 phases=1 R=15 X=0
+New Reactor.T7_OHEW bus1=T7.4 phases=1 bus2=T7.4 r=0.01 X=0 
+
+New line.T8_T9 bus1=T8 bus2=T9 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T8_RT bus1=T8.4 bus2=T8.0 phases=1 R=15 X=0
+New Reactor.T8_OHEW bus1=T8.4 phases=1 bus2=T8.4 r=0.01 X=0 
+
+New line.T9_T10 bus1=T9 bus2=T10 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T9_RT bus1=T9.4 bus2=T9.0 phases=1 R=15 X=0
+New Reactor.T9_OHEW bus1=T9.4 phases=1 bus2=T9.4 r=0.01 X=0 
+
+New line.T10_T11 bus1=T10 bus2=T11 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T10_RT bus1=T10.4 bus2=T10.0 phases=1 R=15 X=0
+New Reactor.T10_OHEW bus1=T10.4 phases=1 bus2=T10.4 r=0.01 X=0 
+
+New line.T11_T12 bus1=T11 bus2=T12 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T11_RT bus1=T11.4 bus2=T11.0 phases=1 R=15 X=0
+New Reactor.T11_OHEW bus1=T11.4 phases=1 bus2=T11.4 r=0.01 X=0 
+
+New line.T12_T13 bus1=T12 bus2=T13 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T12_RT bus1=T12.4 bus2=T12.0 phases=1 R=15 X=0
+New Reactor.T12_OHEW bus1=T12.4 phases=1 bus2=T12.4 r=0.01 X=0 
+
+New line.T13_T14 bus1=T13 bus2=T14 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T13_RT bus1=T13.4 bus2=T13.0 phases=1 R=15 X=0
+New Reactor.T13_OHEW bus1=T13.4 phases=1 bus2=T13.4 r=0.01 X=0 
+
+New line.T14_T15 bus1=T14 bus2=T15 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T14_RT bus1=T14.4 bus2=T14.0 phases=1 R=15 X=0
+New Reactor.T14_OHEW bus1=T14.4 phases=1 bus2=T14.4 r=0.01 X=0 
+
+New line.T15_T16 bus1=T15 bus2=T16 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T15_RT bus1=T15.4 bus2=T15.0 phases=1 R=15 X=0
+New Reactor.T15_OHEW bus1=T15.4 phases=1 bus2=T15.4 r=0.01 X=0 
+
+New line.T16_T17 bus1=T16 bus2=T17 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T16_RT bus1=T16.4 bus2=T16.0 phases=1 R=15 X=0
+New Reactor.T16_OHEW bus1=T16.4 phases=1 bus2=T16.4 r=0.01 X=0 
+
+New line.T17_T18 bus1=T17 bus2=T18 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T17_RT bus1=T17.4 bus2=T17.0 phases=1 R=15 X=0
+New Reactor.T17_OHEW bus1=T17.4 phases=1 bus2=T17.4 r=0.01 X=0 
+
+New line.T18_T19 bus1=T18 bus2=T19 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T18_RT bus1=T18.4 bus2=T18.0 phases=1 R=15 X=0
+New Reactor.T18_OHEW bus1=T18.4 phases=1 bus2=T18.4 r=0.01 X=0 
+
+New line.T19_T20 bus1=T19 bus2=T20 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T19_RT bus1=T19.4 bus2=T19.0 phases=1 R=15 X=0
+New Reactor.T19_OHEW bus1=T19.4 phases=1 bus2=T19.4 r=0.01 X=0 
+
+New line.T20_T21 bus1=T20 bus2=T21 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T20_RT bus1=T20.4 bus2=T20.0 phases=1 R=15 X=0
+New Reactor.T20_OHEW bus1=T20.4 phases=1 bus2=T20.4 r=0.01 X=0 
+
+New line.T21_T22 bus1=T21 bus2=T22 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T21_RT bus1=T21.4 bus2=T21.0 phases=1 R=15 X=0
+New Reactor.T21_OHEW bus1=T21.4 phases=1 bus2=T21.4 r=0.01 X=0 
+
+New line.T22_T23 bus1=T22 bus2=T23 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T22_RT bus1=T22.4 bus2=T22.0 phases=1 R=15 X=0
+New Reactor.T22_OHEW bus1=T22.4 phases=1 bus2=T22.4 r=0.01 X=0 
+
+New line.T23_T24 bus1=T23 bus2=T24 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T23_RT bus1=T23.4 bus2=T23.0 phases=1 R=15 X=0
+New Reactor.T23_OHEW bus1=T23.4 phases=1 bus2=T23.4 r=0.01 X=0 
+
+New line.T24_T25 bus1=T24 bus2=T25 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T24_RT bus1=T24.4 bus2=T24.0 phases=1 R=15 X=0
+New Reactor.T24_OHEW bus1=T24.4 phases=1 bus2=T24.4 r=0.01 X=0 
+
+New line.T25_T26 bus1=T25 bus2=T26 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T25_RT bus1=T25.4 bus2=T25.0 phases=1 R=15 X=0
+New Reactor.T25_OHEW bus1=T25.4 phases=1 bus2=T25.4 r=0.01 X=0 
+
+New line.T26_T27 bus1=T26 bus2=T27 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T26_RT bus1=T26.4 bus2=T26.0 phases=1 R=15 X=0
+New Reactor.T26_OHEW bus1=T26.4 phases=1 bus2=T26.4 r=0.01 X=0 
+
+New line.T27_T28 bus1=T27 bus2=T28 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T27_RT bus1=T27.4 bus2=T27.0 phases=1 R=15 X=0
+New Reactor.T27_OHEW bus1=T27.4 phases=1 bus2=T27.4 r=0.01 X=0 
+
+New line.T28_T29 bus1=T28 bus2=T29 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T28_RT bus1=T28.4 bus2=T28.0 phases=1 R=15 X=0
+New Reactor.T28_OHEW bus1=T28.4 phases=1 bus2=T28.4 r=0.01 X=0 
+
+New line.T29_T30 bus1=T29 bus2=T30 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T29_RT bus1=T29.4 bus2=T29.0 phases=1 R=15 X=0
+New Reactor.T29_OHEW bus1=T29.4 phases=1 bus2=T29.4 r=0.01 X=0 
+
+New line.T30_T31 bus1=T30 bus2=T31 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T30_RT bus1=T30.4 bus2=T30.0 phases=1 R=15 X=0
+New Reactor.T30_OHEW bus1=T30.4 phases=1 bus2=T30.4 r=0.01 X=0 
+
+New line.T31_T32 bus1=T31 bus2=T32 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T31_RT bus1=T31.4 bus2=T31.0 phases=1 R=15 X=0
+New Reactor.T31_OHEW bus1=T31.4 phases=1 bus2=T31.4 r=0.01 X=0 
+
+New line.T32_T33 bus1=T32 bus2=T33 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T32_RT bus1=T32.4 bus2=T32.0 phases=1 R=15 X=0
+New Reactor.T32_OHEW bus1=T32.4 phases=1 bus2=T32.4 r=0.01 X=0 
+
+New line.T33_T34 bus1=T33 bus2=T34 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T33_RT bus1=T33.4 bus2=T33.0 phases=1 R=15 X=0
+New Reactor.T33_OHEW bus1=T33.4 phases=1 bus2=T33.4 r=0.01 X=0 
+
+New line.T34_T35 bus1=T34 bus2=T35 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T34_RT bus1=T34.4 bus2=T34.0 phases=1 R=15 X=0
+New Reactor.T34_OHEW bus1=T34.4 phases=1 bus2=T34.4 r=0.01 X=0 
+
+New line.T35_T36 bus1=T35 bus2=T36 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T35_RT bus1=T35.4 bus2=T35.0 phases=1 R=15 X=0
+New Reactor.T35_OHEW bus1=T35.4 phases=1 bus2=T35.4 r=0.01 X=0 
+
+New line.T36_T37 bus1=T36 bus2=T37 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T36_RT bus1=T36.4 bus2=T36.0 phases=1 R=15 X=0
+New Reactor.T36_OHEW bus1=T36.4 phases=1 bus2=T36.4 r=0.01 X=0 
+
+New line.T37_T38 bus1=T37 bus2=T38 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T37_RT bus1=T37.4 bus2=T37.0 phases=1 R=15 X=0
+New Reactor.T37_OHEW bus1=T37.4 phases=1 bus2=T37.4 r=0.01 X=0 
+
+New line.T38_T39 bus1=T38 bus2=T39 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T38_RT bus1=T38.4 bus2=T38.0 phases=1 R=15 X=0
+New Reactor.T38_OHEW bus1=T38.4 phases=1 bus2=T38.4 r=0.01 X=0 
+
+New line.T39_T40 bus1=T39 bus2=T40 phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T39_RT bus1=T39.4 bus2=T39.0 phases=1 R=15 X=0
+New Reactor.T39_OHEW bus1=T39.4 phases=1 bus2=T39.4 r=0.01 X=0 
+
+New line.T40_SE_ESO bus1=T40 bus2=SE_ESO phases=5 length=1633.341463414634 units=m geometry=LineGeometry Xg=0 Rg=0 rho=100 
+New Reactor.T40_RT bus1=T40.4 bus2=T40.0 phases=1 R=15 X=0
+New Reactor.T40_OHEW bus1=T40.4 phases=1 bus2=T40.4 r=0.01 X=0 
+
